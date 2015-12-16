@@ -1,0 +1,8 @@
+[package]
+name = "stockfighter"
+version = "0.1.0"
+authors = ["Alexander Corwin <ancorwin@gmail.com>"]
+
+[dependencies]
+hyper = "0.7.0"
+rustc-serialize = "0.3"
